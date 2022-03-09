@@ -1,5 +1,4 @@
 # 20+ Web Projects With Vanilla JavaScript
-
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
 | 01  |       [Form Validator] | [Live Demo](https://vanillawebprojects.com/projects/form-validator/)  |
