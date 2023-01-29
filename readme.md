@@ -22,3 +22,8 @@
 | 18  |       [New Year Countdown](https://github.com/ajfm88/javascript-projects/tree/main/18-new-year-countdown)       | [Live Demo](https://vanillawebprojects.com/projects/new-year-countdown) |
 | 19  |            [Sortable List](https://github.com/ajfm88/javascript-projects/tree/main/19-sortable-list)            |   [Live Demo](https://vanillawebprojects.com/projects/sortable-list)    |
 | 20  |   [Speak Number Guessing Game](https://github.com/ajfm88/javascript-projects/tree/main/20-speak-number-guess)   | [Live Demo](https://vanillawebprojects.com/projects/speak-number-guess) |
+
+
+#### Original Course
+
+[20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript)
